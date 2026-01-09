@@ -1,7 +1,3 @@
-/*
-* Напишите unit тесты к созданным функциям
- */
-
 package main
 
 type StringIntMap struct {
